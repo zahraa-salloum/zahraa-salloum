@@ -1,7 +1,7 @@
-<img align="left" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+
 <h1 align="center">Hello 👋, I'm Zahraa Salloum</h1>
 <h3 align="center">A passionate Computer Engineer from Lebanon</h3>
-
+<img align="left" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahraa-salloum&label=Profile%20views&color=0e75b6&style=flat" alt="zahraa-salloum" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahraa-salloum" alt="zahraa-salloum" /></a> </p>
