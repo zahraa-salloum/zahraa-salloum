@@ -1,4 +1,4 @@
-
+<img align="left" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <h1 align="center">Hello 👋, I'm Zahraa Salloum</h1>
 <h3 align="center">A passionate Computer Engineer from Lebanon</h3>
 
